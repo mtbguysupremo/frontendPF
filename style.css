@@ -1,6 +1,14 @@
 body {
     text-align: center;
-    background-color: darkkhaki;
-    color: black;
+    font-size: 25px;
+    border-radius: 50px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+                 -20px -20px 60px #ffffff;
+}
 
+.headshot {
+    max-width: 50vw;
+    max-height: 50vh;
+    border-radius: 25px;
 }
